@@ -1,5 +1,4 @@
 # ArtRider
-![image 356.png](Read%20me%20dee18298bef54a408300002ed247d923/image_356.png)
 
 ## **📖** 프로젝트 소개
 
